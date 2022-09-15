@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ismail</h1>
 <h3 align="center">We have no idea what we don't know!!!</h3>
 
-
-
 - 📫 Reach me with e-mail **iozberks@gmail.com**
 
 
