@@ -2,7 +2,6 @@
 <h3 align="center">We have no idea what we don't know!!!</h3>
 
 - 📫 Reach me with e-mail **iozberks@gmail.com**
-- 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
