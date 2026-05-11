@@ -32,9 +32,18 @@
 <tr>
 <td><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a></td>
 <td><a href="https://github.com/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/></a></td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
 <td><a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a></td>
 <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a></td>
 <td><a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/></a></td>
+<td><a href="https://mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a></td>
+<td><a href="https://www.sqlalchemy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" width="40"/></a></td>
 </tr>
 </table>
 
@@ -42,18 +51,9 @@
 
 <table>
 <tr>
-<td><a href="https://mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a></td>
-<td><a href="https://www.sqlalchemy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" width="40"/></a></td>
 <td><a href="https://www.rabbitmq.com"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40"/></a></td>
 <td><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a></td>
 <td><a href="https://github.com/features/actions/"><img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" width="40"/></a></td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
 <td><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a></td>
 <td><a href="https://heroku.com"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40"/></a></td>
 <td><a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a></td>
@@ -61,8 +61,6 @@
 </table>
 
 <br>
-
-<h3 align="left">For Hobbies:</h3>
 
 <table>
 <tr>
@@ -73,6 +71,8 @@
 <td><a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/></a></td>
 </tr>
 </table>
+
+<br>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=iozberk&label=Profile%20views&color=0e75b6&style=flat"/>
