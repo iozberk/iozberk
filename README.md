@@ -62,6 +62,8 @@
 
 <br>
 
+<h3 align="left">For Hobbies:</h3>
+
 <table>
 <tr>
 <td><a href="https://numpy.org/"><img src="https://numpy.org/images/logo.svg" width="40"/></a></td>
